@@ -1,0 +1,61 @@
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\Sample1.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\Sample1.pdb
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\Antlr3.Runtime.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.AspNet.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.Core.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.OAuth.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.OpenId.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\EntityFramework.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\System.Web.Optimization.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\System.Web.Providers.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\WebGrease.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\EntityFramework.xml
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.Core.xml
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.OAuth.xml
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.OpenId.xml
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\bin\DotNetOpenAuth.AspNet.xml
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\obj\Debug\Sample1.csprojResolveAssemblyReference.cache
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\obj\Debug\Sample1.dll
+c:\users\haiderim\documents\visual studio 2012\Projects\Sample1\Sample1\obj\Debug\Sample1.pdb
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\Sample1.dll.config
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\Sample1.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\Sample1.pdb
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\Antlr3.Runtime.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\AspNet.ScriptManager.jQuery.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.AspNet.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.Core.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.OAuth.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.OpenId.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\EntityFramework.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\Microsoft.Web.Infrastructure.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\System.Web.Optimization.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\System.Web.Providers.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\WebGrease.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\EntityFramework.xml
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.Core.xml
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.OAuth.xml
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.OpenId.xml
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\bin\DotNetOpenAuth.AspNet.xml
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\obj\Debug\Sample1.csprojResolveAssemblyReference.cache
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\obj\Debug\Sample1.dll
+E:\FinancialSuite\Sample1 before DB changes\Sample1\Sample1\obj\Debug\Sample1.pdb
